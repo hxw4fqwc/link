@@ -2,9 +2,6 @@
 <html lang="zh-CN">
 <head>
 <meta charset="utf-8" />
-<style type="text/css"> 
-TUOGUANKAISHI<pic>https://s2.ax1x.com/2019/03/09/Ap1YqS.png</pic><url1>http://allsn.xyz</url1><url2>http://wwww.allsn.xyz</url2><url3>http://allsn.xyz</url3>TUOGUANJIEWEI 
-</style> 
 </head>
 <body>
 <h1>俺来撸死你地址发布页</h1>
